@@ -5,4 +5,7 @@ print(int(hello[0]) -int(hello[1]))
 print("print('hello')\nHello"+input("Enter name")+"!")
 #work's even without concatenation '+' symbol  
 print("hi"" ""there") 
+
+for s in hello:
+    print(s)
  
