@@ -1,0 +1,37 @@
+python primitive data types:
+String
+Integer 
+Float
+Boolean(T,F)
+____
+subscript:
+"hello"[10]
+____
+python follows Left-right calculation:
+operator precidency:
+()
+** - Exponent (i.e)power of
+*/
++-
+______
+Recursion only works for 996 times in Python
+
+8//3=6(floor division)(Returns an integer)
+
+round(9/2,2)-round off to two decimal places
+
+c=int a/ int b, c is float
+
+can't do assignment inside a print() function eg.print(a=3),print(a*=2)is wrong 
+
+f-string: using diffetent data types together in a string
+eg:print (f'hello {aki} how was your day {a*6}') where a=6   
+
+
+a={:.2f}.format(b) => a is a string and b is a float,gives the value of b to 2 decimal places
+
+
+
+
+
+
